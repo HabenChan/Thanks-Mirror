@@ -36,19 +36,7 @@ GitHub：[https://github.com/eryajf/Thanks-Mirror](https://github.com/eryajf/Tha
 > - [read-list](https://github.com/eryajf/read-list)：📖 优质内容订阅，阅读方为根本
 > - [awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)：🦩 优秀的中文区个人主页搜集
 
-**赞助商**
 
-[![](https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20241231_214509.webp)](https://gpt302.saaslink.net/fGvlvo/)
-
-> [302.AI](https://gpt302.saaslink.net/fGvlvo) 是一个按需付费的一站式企业级AI应用平台，开放平台，开源生态。
->
-> - [点击注册](https://gpt302.saaslink.net/fGvlvo): 立即获得 1PTC(1PTC=1 美金，约为 7 人民币)代币。
-> - 集合了最新最全的AI模型和品牌，包括但不限于语言模型、图像模型、声音模型、视频模型。
-> - 在基础模型上进行深度应用开发，做到让小白用户都可以零门槛上手使用，无需学习成本。
-> - 零月费，所有功能按需付费，全面开放，做到真正的门槛低，上限高。
-> - 创新的使用模式，管理和使用分离，面向团队和中小企业，一人管理，多人使用。
-> - 所有AI能力均提供API接入，所有应用开源支持自行定制（进行中）。
-> - 强大的开发团队，每周推出2-3个新应用，平台功能每日更新。
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
