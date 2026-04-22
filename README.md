@@ -36,6 +36,15 @@ GitHub：[https://github.com/eryajf/Thanks-Mirror](https://github.com/eryajf/Tha
 > - [read-list](https://github.com/eryajf/read-list)：📖 优质内容订阅，阅读方为根本
 > - [awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)：🦩 优秀的中文区个人主页搜集
 
+## ❤️ 赞助商
+
+[![](https://wsrv.nl/?url=https://raw.githubusercontent.com/eryajf/tu/refs/heads/main/img/image_20260422_094140.png)](https://aiserve.top/)
+
+
+- 是 API 中转站: 适合开发者和有接口接入需求的团队。
+- 也是 AI 镜像站: 适合个人、运营、内容团队，打开网页直接使用。
+
+[**猿人AI**](https://aiserve.top/): Gemini | ChatGPT | Claude 一站式支持平台，提供先进的AI镜像服务，助你在国内优雅的使用 ChatGPT 和 Claude 等模型。
 
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
